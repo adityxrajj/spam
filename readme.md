@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityxrajj/spam/refs/heads/main/data-science.png" alt="Data Science Cohort - ChaiCode Banner" />
+  <img src="https://raw.githubusercontent.com/adityxrajj/spam/refs/heads/main/Web%20Development.png" alt="Data Science Cohort - ChaiCode Banner" />
 </p>
 
 # Data Science Cohort - ChaiCode 🍵
