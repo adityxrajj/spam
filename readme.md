@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityxrajj/spam/refs/heads/main/final-data%20science.png" alt="Data Science Cohort - ChaiCode Banner" />
+  <img src="https://raw.githubusercontent.com/adityxrajj/spam/refs/heads/main/data-science.png" alt="Data Science Cohort - ChaiCode Banner" />
 </p>
 
 # Data Science Cohort - ChaiCode 🍵
 
-Welcome to my Data Science Journey! This repository is a collection of my projects, challenges, notes, and blogs as I progress through the <strong>ChaiCode - Data Science Cohort</strong> under the guidance of my amazing instructor, <a href="https://x.com/Hiteshdotcom">Hitesh Sir</a> and <a href="https://www.linkedin.com/in/bhatia-priya/">Priya Ma’am</a>.
+Welcome to my Data Science Journey! This repository is a collection of my projects, challenges, notes, and blogs as I progress through the **ChaiCode - Data Science Cohort** under the guidance of my amazing instructor, [Hitesh Sir](https://x.com/Hiteshdotcom) and [Priya Ma’am](https://www.linkedin.com/in/bhatia-priya/)
 
-
-## Repository Structure
+### Repository Structure
 
 This repository is neatly organized into weekly progress updates, including:
 
